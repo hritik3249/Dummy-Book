@@ -1,4 +1,4 @@
-# Ebank Dummy
+# Dummy Book
 My first full stack web development project, a dummy Ebank with Authentication, fake transactions and a downloadable passbook. Built using HTML, CSS, PHP and MySQL, this project got me into Web Developement.
 
 ## Gallery
